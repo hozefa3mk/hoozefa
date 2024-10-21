@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>حذيفة السلمي</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 80%;
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+        .profile-image {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            margin-bottom: 20px;
+        }
+        h1 {
+            color: #2c3e50;
+            margin-bottom: 20px;
+        }
+        p {
+            color: #34495e;
+            line-height: 1.6;
+        }
+        a {
+            color: #2980b9;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>مرحباً، أنا حذيفة السلمي</h1>
+        <img src="path_to_your_image.jpg" alt="حذيفة السلمي" class="profile-image">
+        <p>أفضل لاعب كود رغماً عن الكل</p>
+        <p>هذا الموقع لمساعدتكم في حل مشاكلكم في لعبة كود. لكن لا تأتوني بمشاكل مستحيل حلها!</p>
+        <p>يوزري في تيك توك: <a href="https://www.tiktok.com/@1a__no">1a__no</a></p>
+        <p>رقم الهاتف الخاص بي: 0507690087</p>
+    </div>
+</body>
+</html>
